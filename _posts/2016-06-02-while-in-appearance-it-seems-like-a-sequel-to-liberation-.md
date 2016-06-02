@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: "While in appearance, it seems like a sequel to Liberation -- a similar cover shot down to the typeface that is on the front, in this case showing Hannon in front of the IM Pei-designed entrance to the Louvre, while the back shows a similarly Rococo piece of decoration -- Promenade is in fact even more extremely and defiantly non-rock than its predecessor. With a larger number of string performers to accompany him, not to mention someone on oboe, sax, and cor anglais (English horn), Hannon retains only drummer/co-producer Darren Allison from the previous record to make what remains his most self-conscious art release to date. The opening \"Bath\" sets the course, with seacoast sounds and a brief spoken word bit that turns into a minimalist Michael Nyman homage before slamming into the song proper, where the guitars and bass take a back seat to the choir, strings, and woodwinds, all the while driven along by Allison's solid percussion. From there all kinds of twists and turns emerge in an alternate universe where classical instrumentation offers as much pop as a guitar strum. The extreme archness of \"Going Downhill Fast\" is also a pub singalong, while \"Don't Look Down\" builds to a dramatic, striking ending. Hannon's wickedly sharp wit informs almost everything; \"The Booklovers\" is the clear winner on that count, as Hannon tremulously recites a number of authors' names (with an appropriate accompanying sample or aside, often quite hilarious) over a stately arrangement. \"A Seafood Song\" and \"A Drinking Song\" celebrate exactly what they say they do, the latter offering up the great line \"All my lovers will be pink and elephantine!\" At the same time, the tender side of Hannon, which has sometimes been ignored, surfaces more than once, with \"The Summerhouse,\" a nostalgic, wonderfully gentle piece on a lost season of love. This turns out to be one of Hannon's best songs ever."
-datePublished: '2016-06-02T17:50:50.373Z'
-dateModified: '2016-06-02T17:50:50.011Z'
+datePublished: '2016-06-02T18:12:55.624Z'
+dateModified: '2016-06-02T18:12:22.048Z'
 title: ''
 author:
   - name: ''
