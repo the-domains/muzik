@@ -4,7 +4,7 @@
         <description><![CDATA[muzik]]></description>
         <link>https://thegrid.ai/muzik/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 14:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 14:39:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/muzik/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/muzik/b81231d3-0958-47dd-a5fd-2d5f0388ef74/index.html</link>
             <guid isPermaLink="false">b81231d3-0958-47dd-a5fd-2d5f0388ef74</guid>
             <pubDate>Thu, 02 Jun 2016 14:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08851b46-6f80-425d-ba5e-517e30623845.jpg">]]></description>
-            <link>https://thegrid.ai/muzik/while-in-appearance-it-seems-like-a-sequel-to-liberation-/index.html</link>
-            <guid isPermaLink="false">55948958-3de2-4dcf-a892-4af134c79137</guid>
-            <pubDate>Thu, 02 Jun 2016 14:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18dad872-7251-420a-ac17-28cb7c599ca7.jpg">]]></description>
-            <link>https://thegrid.ai/muzik/recorded-after-singersongwriter-mark-linkous-accidental-n/index.html</link>
-            <guid isPermaLink="false">1588d1e3-5636-4157-949c-b93fd015dfcd</guid>
-            <pubDate>Thu, 02 Jun 2016 14:28:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
