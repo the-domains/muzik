@@ -1,8 +1,7 @@
-layout_spectrum: 0.483871
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: muzik
+favicon: null
+layout_spectrum: 0.75736
+typography_spectrum: 0.1900910458061844
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4375
-  brandStrength: 0.3349576282780617
-  rhythmicContrast: 0.5766159538179636
   brandColors:
     - '#fc408d'
     - '#fbdf40'
     - '#0a0501'
     - '#5d0d02'
     - '#ae9a37'
+  brandStrength: 0.3349576282780617
   lightness: 0.625
-typography_spectrum: 0.1900910458061844
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: muzik
+  saturation: 0.4375
+  rhythmicContrast: 0.5766159538179636
+purpose: []
