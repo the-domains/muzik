@@ -1,28 +1,40 @@
-name: muzik
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.1900910458061844
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: muzik
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4375
+  brandStrength: 0.3349576282780617
+  rhythmicContrast: 0.5766159538179636
   brandColors:
     - '#fc408d'
     - '#fbdf40'
     - '#0a0501'
     - '#5d0d02'
     - '#ae9a37'
-  brandStrength: 0.33495762827806175
   lightness: 0.625
-  saturation: 0.4375
-  rhythmicContrast: 0.5766159538179636
-purpose: []
+typography_spectrum: 0.1900910458061844
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3655914
+analytics:
+  twitter: null
+  google: null
+  facebook: null
