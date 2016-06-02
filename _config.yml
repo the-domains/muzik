@@ -1,6 +1,6 @@
 name: muzik
 favicon: null
-layout_spectrum: 0.75736
+layout_spectrum: 1
 typography_spectrum: 0.1900910458061844
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#0a0501'
     - '#5d0d02'
     - '#ae9a37'
-  brandStrength: 0.3349576282780617
+  brandStrength: 1
   lightness: 0.625
   saturation: 0.4375
   rhythmicContrast: 0.5766159538179636
