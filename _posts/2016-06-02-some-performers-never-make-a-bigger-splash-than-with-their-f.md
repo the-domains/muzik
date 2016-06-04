@@ -27,8 +27,8 @@ description: >-
   showstopper "The Bugle Sounds Again" to the heart-stopping guitar work on
   "Lost Outside the Tunnel." Whether listeners want to investigate further from
   here is up to them, but High Land, Hard Rain itself is a flat-out must-have.
-datePublished: '2016-06-04T13:17:53.046Z'
-dateModified: '2016-06-04T13:17:45.169Z'
+datePublished: '2016-06-04T13:21:59.720Z'
+dateModified: '2016-06-04T13:21:52.491Z'
 title: ''
 author:
   - name: ''
