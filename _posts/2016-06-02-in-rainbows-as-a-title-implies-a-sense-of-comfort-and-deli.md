@@ -1,9 +1,17 @@
 ---
+datePublished: '2016-08-01T08:45:19.032Z'
+sourcePath: >-
+  _posts/2016-06-02-in-rainbows-as-a-title-implies-a-sense-of-comfort-and-deli.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-01T08:45:18.454Z'
+title: ''
+publisher: {}
 description: >-
   In Rainbows, as a title, implies a sense of comfort and delightfulness.
   Symbolically, rainbows are more likely to be associated with kittens and warm
@@ -34,16 +42,9 @@ description: >-
   song-oriented, with each track constantly moving forward and developing, yet
   there are abstract electronic layers and studio-as-instrument elements to
   prevent it from sounding like a regression.
-datePublished: '2016-06-06T23:12:47.890Z'
-dateModified: '2016-06-06T23:12:08.350Z'
-title: ''
-author:
-  - name: ''
-    url: ''
-sourcePath: >-
-  _posts/2016-06-02-in-rainbows-as-a-title-implies-a-sense-of-comfort-and-deli.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: in-rainbows-as-a-title-implies-a-sense-of-comfort-and-deli/index.html
 _type: Article
