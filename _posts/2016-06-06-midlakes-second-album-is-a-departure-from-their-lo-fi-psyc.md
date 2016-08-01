@@ -1,10 +1,17 @@
 ---
+datePublished: '2016-08-01T08:45:04.326Z'
+sourcePath: >-
+  _posts/2016-06-06-midlakes-second-album-is-a-departure-from-their-lo-fi-psyc.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: null
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-01T08:45:03.625Z'
+title: ''
+publisher: {}
 description: >-
   Midlake's second album is a departure from their lo-fi, psychedelic
   pop-influenced debut. The Trials of Van Occupanther jumps with both feet into
@@ -33,14 +40,8 @@ description: >-
   often than you might expect; indeed, it has lasting power that many records
   that sound so good on first listen lack. Midlake might be stuck in the '70s,
   but they make it sound like the best place on earth.
-datePublished: '2016-06-07T12:28:31.814Z'
-dateModified: '2016-06-07T12:28:31.429Z'
-title: ''
-author: []
-sourcePath: >-
-  _posts/2016-06-06-midlakes-second-album-is-a-departure-from-their-lo-fi-psyc.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: false
 _type: Blurb
 
