@@ -1,9 +1,18 @@
 ---
+datePublished: '2016-08-01T08:47:44.374Z'
+sourcePath: >-
+  _posts/2016-06-02-some-performers-never-make-a-bigger-splash-than-with-their-f.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-01T08:47:43.964Z'
+title: ''
+publisher: {}
 description: >-
   Some performers never make a bigger splash than with their first record, a
   situation that the Ramones and De La Soul know all too well. If that's the
@@ -27,16 +36,8 @@ description: >-
   showstopper "The Bugle Sounds Again" to the heart-stopping guitar work on
   "Lost Outside the Tunnel." Whether listeners want to investigate further from
   here is up to them, but High Land, Hard Rain itself is a flat-out must-have.
-datePublished: '2016-06-04T13:21:59.720Z'
-dateModified: '2016-06-04T13:21:52.491Z'
-title: ''
-author:
-  - name: ''
-    url: ''
-sourcePath: >-
-  _posts/2016-06-02-some-performers-never-make-a-bigger-splash-than-with-their-f.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: false
 url: some-performers-never-make-a-bigger-splash-than-with-their-f/index.html
 _type: Article
