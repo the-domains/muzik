@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-01T08:47:44.374Z'
+datePublished: '2016-08-01T08:47:59.665Z'
 sourcePath: >-
   _posts/2016-06-02-some-performers-never-make-a-bigger-splash-than-with-their-f.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-01T08:47:43.964Z'
+dateModified: '2016-08-01T08:47:59.231Z'
 title: ''
 publisher: {}
 description: >-
