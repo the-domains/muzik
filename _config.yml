@@ -18,22 +18,22 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.9176752956118435
-  brandStrength: 0.012208141386508942
-  rhythmicContrast: 0.5507806017994881
+  saturation: 0.41269374056719244
+  brandStrength: 0.6552508750464767
+  rhythmicContrast: 0.8382968278601766
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  lightness: 0.2782080299220979
-typography_spectrum: 0.6739807748235762
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  lightness: 0.18849009601399302
+typography_spectrum: 0.5766352647915483
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.5087438696064055
+layout_spectrum: 0.08312967559322715
 analytics:
   twitter: null
   google: null
